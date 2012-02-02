@@ -1,0 +1,33 @@
+Logfile initialized
+[INFO] logfile = /home/vishnu/Titanium/strata/RentBooksPhaseOneFinal/build.log
+[DEBUG] /home/vishnu/.titanium/mobilesdk/linux/1.8.0.1/android/builder.py simulator RentBooksPhaseOneFinal /home/vishnu/Strata/android-sdk-linux /home/vishnu/Titanium/strata/RentBooksPhaseOneFinal com.stratalabs.com 3 WQVGA432 /127.0.0.1:58990
+[INFO] Building RentBooksPhaseOneFinal for Android ... one moment
+[INFO] Titanium SDK version: 1.8.0.1 (12/22/11 13:09 fbdc96f)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.017353 seconds on emulator to get ready
+[DEBUG] com.stratalabs.com installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: /home/vishnu/Titanium/strata/RentBooksPhaseOneFinal/Resources/ui/login.js => /home/vishnu/Titanium/strata/RentBooksPhaseOneFinal/build/android/bin/assets/Resources/ui/login.js
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /home/vishnu/Titanium/strata/RentBooksPhaseOneFinal/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /home/vishnu/Titanium/strata/RentBooksPhaseOneFinal/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /home/vishnu/Titanium/strata/RentBooksPhaseOneFinal/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /home/vishnu/Titanium/strata/RentBooksPhaseOneFinal/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /home/vishnu/Titanium/strata/RentBooksPhaseOneFinal/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /home/vishnu/Titanium/strata/RentBooksPhaseOneFinal/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /home/vishnu/Titanium/strata/RentBooksPhaseOneFinal/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /home/vishnu/Titanium/strata/RentBooksPhaseOneFinal/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] found drawable-long-land-hdpi splash screen at /home/vishnu/Titanium/strata/RentBooksPhaseOneFinal/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /home/vishnu/Titanium/strata/RentBooksPhaseOneFinal/Resources/android/images/res-long-port-hdpi/default.png
+[INFO] Waiting for SDCard to become available..
+[INFO] Re-launching application ... RentBooksPhaseOneFinal
+[INFO] Launching application ... RentBooksPhaseOneFinal
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.stratalabs.com/.RentbooksphaseonefinalActivity }
+Warning: Activity not started, its current task has been brought to the front
+
+[INFO] Forwarding host port 58990 to device for debugging.
+[INFO] Android Emulator has exited
